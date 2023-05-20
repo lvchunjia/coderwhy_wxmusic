@@ -18,6 +18,11 @@
   width: 100%;
 }
 
+/* 巅峰榜 */
+.ranking {
+  padding-bottom: 20rpx;
+}
+
 /* 播放工具栏 */
 .play-bar-placeholder {
   height: 50px;
