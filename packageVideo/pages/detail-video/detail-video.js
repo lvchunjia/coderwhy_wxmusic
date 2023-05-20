@@ -3,7 +3,7 @@ import {
   getMVUrl,
   getMVInfo,
   getMVRelated
-} from "../../services/video"
+} from "../../../services/video"
 
 Page({
   /**
